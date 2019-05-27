@@ -1,6 +1,6 @@
 # VuePress 快速上手
 
-### 步骤一：git clone git@mobike.io:zhangyunchen/vuepress-devkit.git
+### 步骤一：git clone git@mobike.io:kora-KR/vuepress-devkit.git
 
 ### 步骤二：运行 npm install
 
